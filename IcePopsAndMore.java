@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class IcePopsAndMore {
     public static void main(String[] args){
 
-        double precioPaleta = 30.50;
-        double puntosPorPaleta = 1;
+        double precioPaleta = 30.50; //precio de paleta
+        double puntosPorPaleta = 1; //puntos promocionales generados por paleta
 
-        int totalPaletas = 0;
+        int totalPaletas = 0; //total de paletas a comprar
         double costoTotal = 0; //costo total a pagar por el cliente
         double puntosFinales = 0; //puntos promocionales generados por la compra
 
